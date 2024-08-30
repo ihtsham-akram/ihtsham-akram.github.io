@@ -1,3 +1,21 @@
+title: Ihtsham - Software Engineer
+description: Portfolio of Ihtsham, a Software Engineer with expertise in React, Vue, Angular, and more.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ihtsham-akram.github.io" # the base hostname & protocol for your site
+
+# Jekyll theme
 theme: jekyll-theme-minimal
-title: Ihtsham's homepage
-description: Bookmark this to keep an eye on my project updates!
+
+# Author Information
+author: 
+  name: Ihtsham
+  email: engineer.js101@example.com
+
+# Social Links
+social_links:
+  github: https://github.com/ihtsham-akram
+  linkedin: https://www.linkedin.com/in/ihtsham-akram-368868213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+# Build settings
+markdown: kramdown
+permalink: pretty
