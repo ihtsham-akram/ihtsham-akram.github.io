@@ -74,11 +74,9 @@ I have a proven track record of successfully constructing and revamping informat
 
 ## 📫 Contact Me
 
-- **Location:** Narowal, Pakistan
+- **LinkedIn:** [https://www.linkedin.com/in/ihtsham-akram]( https://www.linkedin.com/in/ihtsham-akram-368868213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Email:** [engineer.js101@gmail.com](mailto:engineer.js101@gmail.com)
-- **Phone:** +923408821147
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **GitHub:** [github.com/ihtsham-akram](https://github.com/ihtsham-akram)
 
 ## ✨ Fun Fact
 
