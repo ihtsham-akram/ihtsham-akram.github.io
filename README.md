@@ -1,5 +1,3 @@
-# Ihtsham - Software Engineer
-
 Welcome to my portfolio! I'm a Software Engineer with over 5 years of experience in creating dynamic, user-friendly web applications using modern front-end frameworks. I'm passionate about delivering high-quality, scalable, and efficient solutions.
 
 ## 🧑‍💻 About Me
