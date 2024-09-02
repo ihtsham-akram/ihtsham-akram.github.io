@@ -59,9 +59,9 @@ A fully-featured blogging platform with rich-text editing, markdown support, and
 
 ## 📫 Contact Me
 
-- **LinkedIn:** [Your LinkedIn Profile]( https://www.linkedin.com/in/ihtsham-akram-368868213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Email:** [Your Email](mailto:engineer.js101@gmail.com)
-- **GitHub:** [github.com/yourusername](https://github.com/ihtsham-akram)
+- **LinkedIn:** [https://www.linkedin.com/in/ihtsham-akram]( https://www.linkedin.com/in/ihtsham-akram-368868213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Email:** [engineer.js101@gmail.com](mailto:engineer.js101@gmail.com)
+- **GitHub:** [github.com/ihtsham-akram](https://github.com/ihtsham-akram)
 
 ## ✨ Fun Fact
 
