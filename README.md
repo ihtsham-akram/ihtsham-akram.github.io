@@ -57,7 +57,15 @@ I have a proven track record of successfully constructing and revamping informat
   - October 2016 to October 2020
 
 ## 🚀 Projects
-
+### [Checkmate Health](beta.checkmate.health)
+- Technologies: **React**, **React Query**, **Custom Hooks**, **Emotion CSS**, **Bootstrap5**, **Styled Components**
+  
+### [HIVE AI Tax Assistant Platform](https://hivetax.ai/)
+- Technologies: **Nuxt3**, **HTML5**, **CSS3** , **Python**
+  
+### [Bizly Web](https://bizlyweb-new.vercel.app/login)
+- Technologies: **Nuxt3**, **HTML5**, **CSS3** , **Python**
+  
 ### [Alpha Alliance](https://alphasalliance.com/alpha-signs/)
 - Technologies: **React**, **HTML5**, **Custom Hooks**, **CSS3**, **Bootstrap5**, **Styled Components**
 
