@@ -1,4 +1,4 @@
-Welcome to my portfolio! I am Ihtsham Akram, a JavaScript developer based in Narowal, Pakistan. With over 2 years of experience, I specialize in building dynamic, user-centric web applications using modern technologies such as **React.js**, **Vue.js**, **Bootstrap**, **HTML5**, and **CSS3**.
+Welcome to my portfolio! I am Ihtsham Akram, a JavaScript developer based in Narowal, Pakistan. With over 2 years of experience, I specialize in building dynamic, user-centric web applications using modern technologies such as **React.js**, **Vue.js**, **Bootstrap**, **HTML5**,**ContentFul CMS**, and **CSS3**.
 
 ## 🧑‍💻 About Me
 
