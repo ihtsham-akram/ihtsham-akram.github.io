@@ -25,9 +25,15 @@ I have a proven track record of successfully constructing and revamping informat
 </p>
 
 ## 🛠️ Work Experience
+### Senior JavaScript Developer - MentorSol
+- **Present**
+- Building scalable and high-performance web applications using React.js, Redux Toolkit, and modern JavaScript practices.
+- Developing responsive and accessible UI components with HTML5, CSS3, SASS, and Tailwind CSS.
+- Developed efficient UI components using **HTML5**, **CSS3**, **SASS**, **JavaScript**, **jQuery**, **ReactJS**, **Redux Toolkit**, **Ajax**, and **JSON**.
+- Implementing AWS authentication, storage, and deployment solutions for secure and scalable applications.
+- Collaborating with cross-functional teams to troubleshoot issues and enhance user experience.
 
 ### React JavaScript Developer - Novatore Solutions
-- **Present**
 - Involved in all stages of Software Development Life Cycle (SDLC) including application design, development, debugging, and testing.
 - Used AWS authentication to authenticate React web applications.
 - Developed efficient UI components using **HTML5**, **CSS3**, **SASS**, **JavaScript**, **jQuery**, **ReactJS**, **Redux Toolkit**, **Ajax**, and **JSON**.
